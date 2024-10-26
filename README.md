@@ -1,4 +1,4 @@
-# hello-world
+yes# hello-world
 This repository is for practicing the GitHub flow.
 Hello!  I am beginning my journey going back to college after my IT career.
 
@@ -14,7 +14,7 @@ GitHub site
 Five rules of pseudocode:
 1)  Use simple language.
 2)  Focus on the algorithm.
-3)  Break down th3e problem.
+3)  Break down the problem.
 4)  Use indentation.
 5)  Write one statement per line.
 
